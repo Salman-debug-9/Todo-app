@@ -8,7 +8,7 @@ A sophisticated, modern To-Do application built with React, Redux Toolkit, and T
 
 - Efficient Task Management: Add and remove tasks with ease.
 - Global State Management: Powered by Redux Toolkit for predictable and scalable state handling.
-- Sleek UI/UX: Styled with Tailwind CSS for a modern, responsive, and clean aesthetic.
+- Sleek UI/UX: Styled with Tailwind CSS for a modern, responsive, and clean aesthetic. 
 - Fast Build Times: Developed using Vite for an ultra-fast development experience.
 - Persistent Logic: Cleanly separated concerns between components and Redux slices.
 
