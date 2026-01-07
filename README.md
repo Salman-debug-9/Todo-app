@@ -96,5 +96,3 @@ Contributions are what make the open source community such an amazing place to l
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
----
-Project Link: [https://github.com/Salman-debug-9/to-do-list-react](https://github.com/Salman-debug-9/to-do-list-react)
