@@ -34,13 +34,7 @@ Prerequisites
 
 Setup
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Salman-debug-9/to-do-list-react.git
-   cd "to-do-list-react"
-   ```
-
-2. **Install dependencies**
+1. **Install dependencies**
    Using Bun:
    ```bash
    bun install
@@ -50,7 +44,7 @@ Setup
    npm install
    ```
 
-3. **Start the development server**
+2. **Start the development server**
    Using Bun:
    ```bash
    bun dev
@@ -60,7 +54,7 @@ Setup
    npm run dev
    ```
 
-4. **Build for production**
+3. **Build for production**
    ```bash
    bun run build
    ```
